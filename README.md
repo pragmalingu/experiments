@@ -1,6 +1,6 @@
 # Experiments
 Repository for scripts and notebooks with description and conclusions of results for our experiments.
-For more detail go to www.pragmalingu.de/experiments.
+For more detail go to https://pragmalingu.de/docs/experiments/experiments-intro.
 
 # Data
 In this folder you can find all the notebooks to parse the data before using it in Elasticsearch.

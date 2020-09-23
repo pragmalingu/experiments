@@ -14,7 +14,7 @@ Our notebook on algortihmic stemmers shows you how to use them in ELasticsearch 
 Our notebook on dictionary stemmers shows you how to use them in ELasticsearch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/Experiment/Hunspell_Dictionary_Stemmer.ipynb)
 
 # Evaluation
-To only evaluate the methods using our Elasticsearch instance use this notebook [![Open In Colab](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/Comparison_Stemming_vs_Standard_Search.ipynb)
+To only evaluate the methods using our Elasticsearch instance use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/Comparison_Stemming_vs_Standard_Search.ipynb)
 
 # Data
 In this folder you can find all the notebooks to parse the data before using it in your own Elasticsearch Instance.

@@ -3,7 +3,11 @@ Repository for scripts and notebooks with description and conclusions of results
 For more detail go to https://pragmalingu.de/docs/experiments/experiments-intro.
 
 # Data
-In this folder you can find all the notebooks to parse the data before using it in Elasticsearch.
+In this folder you can find all the notebooks to parse the data before using it in your own Elasticsearch Instance.
+
+## Parsing and Indexing Data
+With this notebook you're able to parse and index data on the Google Colab Server with Elasticsearch.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/ParsingAndIndexingData.ipynb)
 
 ## ADI corpus
 Here you can find the notebook to parse the ADI corpus with.

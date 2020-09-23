@@ -1,17 +1,19 @@
 # Stemming
 This branch focuses on our experiment on stemming. To read about the whole process visit the [experiment](https://pragmalingu.de/docs/experiments/experiment1) on our website. For less a detailed but more analysed article look at our [comparison](https://pragmalingu.de/docs/comparisons/stemming).
 
-# Experiments
+# Experiment
 This folder contains the methods and the finished notebook to run the experiment.
 
 ## First Experiment: Stemming
-To run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/drive/1MpbkFJpCvAaJ1Txcvh1EMGxAJ_60ccF1#scrollTo=ISoDO5nfbjHa)
-## Stemmer Token Filter
+To run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/First_Experiment_Stemming.ipynb)
+## Algorithmic Stemmers
+Our notebook on algortihmic stemmers shows you how to use them in ELasticsearch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/Experiment/Algorithmic_Stemmer.ipynb)
 
-## Hunspell Token Folter
+## Dictionary Stemmers
+Our notebook on dictionary stemmers shows you how to use them in ELasticsearch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Experiment/Dictionary_Stemmers.ipynb))
 
 # Evaluation
-To only evaluate the methods using our Elasticsearch instance use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1APrjSN-wpWy5xX31akjaWz2xul647rYJ)
+To only evaluate the methods using our Elasticsearch instance use this notebook [![Open In Colab](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/Comparison_Stemming_vs_Standard_Search.ipynb)
 
 # Data
 In this folder you can find all the notebooks to parse the data before using it in your own Elasticsearch Instance.
@@ -22,33 +24,33 @@ With this notebook you're able to parse and index data on the Google Colab Serve
 
 ## ADI corpus
 Here you can find the notebook to parse the ADI corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/adi_corpus/ADICorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/ADICorpus.ipynb)
 
 ## CACM corpus
 Here you can find the notebook to parse the CACM corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/CACM_corpus/CACMCorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/CACMCorpus.ipynb)
 
 ## CISI corpus
 Here you can find the notebook to parse the CISI corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/CISI-corpus/CISIcorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/CISICorpus.ipynb)
 
 ## Cranfield corpus
 Here you can find the notebook to parse the Cranfield corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/cranfield_corpus/CranfieldCorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/CranfieldCorpus.ipynb)
 
 ## LISA corpus
 Here you can find the notebook to parse the LISA corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/lisa_corpus/LISACorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/LISACorpus.ipynb)
 
 ## Medline corpus
 Here you can find the notebook to parse the Medline corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/medline_corpus/MedlineCorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/MedlineCorpus.ipynb)
 
 ## NLP corpus
 Here you can find the notebook to parse the NPL corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/npl_corpus/NPLCorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/NLPCorpus.ipynb)
 
 ## Time corpus
 Here you can find the notebook to parse the Time corpus with.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/private_experiments/blob/time_corpus/TimeCorpus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/Data/TimeCorpus.ipynb)
 

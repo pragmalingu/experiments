@@ -1,6 +1,17 @@
+# Stemming
+This branch focuses on our experiment on stemming. To read about the whole process visit the [experiment](https://pragmalingu.de/docs/experiments/experiment1) on our website. For less a detailed but more analysed article look at our [comparison](https://pragmalingu.de/docs/comparisons/stemming).
+
 # Experiments
-Repository for scripts and notebooks with description and conclusions of results for our experiments.
-For more detail go to https://pragmalingu.de/docs/experiments/experiments-intro.
+This folder contains the methods and the finished notebook to run the experiment.
+
+## First Experiment: Stemming
+To run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/drive/1MpbkFJpCvAaJ1Txcvh1EMGxAJ_60ccF1#scrollTo=ISoDO5nfbjHa)
+## Stemmer Token Filter
+
+## Hunspell Token Folter
+
+# Evaluation
+To only evaluate the methods using our Elasticsearch instance use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1APrjSN-wpWy5xX31akjaWz2xul647rYJ)
 
 # Data
 In this folder you can find all the notebooks to parse the data before using it in your own Elasticsearch Instance.

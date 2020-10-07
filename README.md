@@ -14,7 +14,7 @@ This folder contains the methods and the finished notebook to run the experiment
 
 To only evaluate the methods using our Elasticsearch instance use this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R1dngVymdA2vqSnNjdreVdzIlZHlbqrd#scrollTo=bgszTWn5pwZL)
 
-# Data
+## Data
 In this folder you can find all the notebooks to parse the data before using it in your own Elasticsearch Instance.
 
 * Parsing and Indexing Data. With this notebook you're able to parse and index data on the Google Colab Server with Elasticsearch.

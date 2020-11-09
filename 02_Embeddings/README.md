@@ -6,10 +6,11 @@ This branch focuses on our experiment on embeddings with BERT. To read about the
 
 This folder contains the methods and the finished notebook to run the experiment.
 
-* Second Experiment to run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UW6YZUYIYHBWUweTxghk9eCXWp4GbObl#scrollTo=b3MqSL8VFBzs)
+* Second Experiment to run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/01_Stemming/Experiment/Second_Experiment_BERT_Embeddings.ipynb
+)
 
 * Our notebook with a demonstration of how the BERT embeddings work [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/02_BERT/Evaluation/Comparison_BERT_vs_Standard_Search.ipynb)
 
 ## Evaluation
 
-To only evaluate the methods using our Elasticsearch instance use this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R1dngVymdA2vqSnNjdreVdzIlZHlbqrd#scrollTo=bgszTWn5pwZL)
+To only evaluate the methods using our Elasticsearch instance use this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/02_BERT/Comparison_BERT_vs_Standard_Search.ipynb)

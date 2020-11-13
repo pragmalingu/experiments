@@ -5,7 +5,7 @@ This folder focuses on our experiment on stemming. To read about the whole proce
 This folder contains the methods and the finished notebook to run the experiment.
 
 * First Experiment
-To run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/01_Stemming/First_Experiment_Stemming.ipynb)
+To run the whole experiment on Elasticsearch use this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/01_Stemming/Experiment/First_Experiment_Stemming.ipynb)
 
 * Algorithmic Stemmers
 Our notebook on algortihmic stemmers shows you how to use them in ELasticsearch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/01_Stemming/Experiment/Algorithmic_Stemmer.ipynb)

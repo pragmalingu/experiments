@@ -12,4 +12,6 @@ This folder contains the methods and the finished notebook to run the experiment
 
 ## Evaluation
 
-To only evaluate the methods using our Elasticsearch instance use this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/02_Embeddings/Evaluation/Comparison_BERT_vs_Standard_Search.ipynb)
+To only evaluate the methods using our Elasticsearch instance use this:
+* Embeddings Experiment without Rerank [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/02_Embeddings/Evaluation/Comparison_BERT_vs_Standard_Search.ipynb)
+* Embeddings Experiment with Rerank [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pragmalingu/experiments/blob/master/02_Embeddings/Evaluation/Comparison_BERT_vs_Standard_Search_Reranking.ipynb)
